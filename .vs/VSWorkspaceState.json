@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
-    "\\controllers",
-    "\\models",
-    "\\routes"
+    "",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\components"
   ],
+  "SelectedNode": "\\frontend\\src\\index.css",
   "PreviewInSolutionExplorer": false
 }
